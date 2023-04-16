@@ -1,5 +1,5 @@
 # Google-Stock-Prices-2023
-## Here is a summary of everything we did:
+## Here is a summary of everything that was done:
 
 * I imported the necessary libraries and loaded the stock price data into a Pandas dataframe.
 * I performed data cleaning and feature engineering to prepare the data for analysis.
