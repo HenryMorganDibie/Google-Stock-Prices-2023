@@ -8,7 +8,7 @@
 * I built and evaluated several machine learning models, including linear regression, random forest regression, gradient boosting regression, XGBoost regression, Ridge regression, and Lasso regression.
 * I selected the best-performing model, gradient boosting regression, and further evaluated its performance on a larger test set, using cross-validation, and tuning its hyperparameters.
 * The final model achieved an RMSE of 22.26 on the test set.
-* Overall, we were able to analyze the stock price data, build and evaluate several predictive models, and select the best model to make accurate predictions on future stock prices.
+* Overall, I was able to analyze the stock price data, build and evaluate several predictive models, and select the best model to make accurate predictions on future stock prices.
 
 Here is a wider explanation of every detail taken for predicting and analyzing the datasets
 https://medium.com/@HenryMorgansDiary/building-a-predictive-model-for-google-stock-prices-2023-953edd0adcf0
